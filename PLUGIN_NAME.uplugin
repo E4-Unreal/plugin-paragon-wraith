@@ -1,0 +1,18 @@
+{
+	"FileVersion": 3,
+	"Version": 1,
+	"VersionName": "1.0.0",
+	"FriendlyName": "PLUGIN_NAME",
+	"Description": "에픽게임즈 무료 콘텐츠",
+	"Category": "Epic Games Content",
+	"CreatedBy": "Epic Games",
+	"CreatedByURL": "https://www.unrealengine.com/marketplace/ko/profile/Epic+Games?count=20&sortBy=effectiveDate&sortDir=DESC&start=0",
+	"DocsURL": "",
+	"MarketplaceURL": "",
+	"SupportURL": "",
+	"CanContainContent": true,
+	"IsBetaVersion": false,
+	"IsExperimentalVersion": false,
+	"Installed": false,
+	"NoCode": true
+}
